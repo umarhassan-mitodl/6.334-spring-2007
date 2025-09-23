@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electric Power"
+    ]
+  ],
+  "legacy_uid": "e7accf36-346d-511a-91ba-6e36e6164ded",
+  "instructors": {
+    "content": [
+      "cb2df7a2-1c35-59e8-1fa2-34a04ad9ab57"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5d4e39a4-b370-838f-9b55-ecec98ec9e81",
+    "website": "6-334-power-electronics-spring-2007"
+  },
+  "course_title": "Power Electronics",
+  "course_description": "6.334 examines the application of electronics to energy conversion and control. Topics covered include: modeling, analysis, and control techniques; design of power circuits including inverters, rectifiers, and DC-DC converters; analysis and design of magnetic components and filters; and characteristics of power semiconductor devices. Numerous application examples will be presented such as motion control systems, power supplies, and radio-frequency power amplifiers. The course is worth 6 engineering design points.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.334",
+  "course_image_thumbnail": {
+    "content": "70d9cc56-b8f4-ac2e-6c02-abf910f70e23",
+    "website": "6-334-power-electronics-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "388e892f-ddf8-4124-a110-49cad84d4ca3",
+  "site_short_id": "6.334-spring-2007",
+  "site_url_path": "courses/6-334-power-electronics-spring-2007",
+  "title": "Course Metadata"
+}
