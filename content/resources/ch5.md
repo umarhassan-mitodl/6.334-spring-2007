@@ -5,6 +5,8 @@ description: Lecture notes on DC/DC converters, Kirchhoff's voltage law, Kirchho
 file: /courses/6-334-power-electronics-spring-2007/888fe7fe65dbb6f11dc903f8caaa38f3_ch5.pdf
 file_size: 282155
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

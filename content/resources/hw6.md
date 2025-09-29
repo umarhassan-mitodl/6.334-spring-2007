@@ -6,6 +6,8 @@ description: Problem set on filter design, multilevel inverter topology, device 
 file: /courses/6-334-power-electronics-spring-2007/c35219f48139ca5e2b7c4566e5dd009b_hw6.pdf
 file_size: 112273
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
