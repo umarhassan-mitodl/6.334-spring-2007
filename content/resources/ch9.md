@@ -6,8 +6,6 @@ description: Handwritten lecture notes on Fourier series review, inverter struct
 file: /courses/6-334-power-electronics-spring-2007/62f391a56d14d3eed360136016e1c1c1_ch9.pdf
 file_size: 1697816
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

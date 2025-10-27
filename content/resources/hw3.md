@@ -5,8 +5,6 @@ description: Problem set on single-ended primary inductor converters, energy sto
 file: /courses/6-334-power-electronics-spring-2007/eb44001505d39c833857c7b38e33ab0f_hw3.pdf
 file_size: 146118
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

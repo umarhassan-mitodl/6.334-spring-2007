@@ -28,7 +28,6 @@
     "website": "6-334-power-electronics-spring-2007"
   },
   "course_title": "Power Electronics",
-  "hide_download": true,
   "course_description": "6.334 examines the application of electronics to energy conversion and control. Topics covered include: modeling, analysis, and control techniques; design of power circuits including inverters, rectifiers, and DC-DC converters; analysis and design of magnetic components and filters; and characteristics of power semiconductor devices. Numerous application examples will be presented such as motion control systems, power supplies, and radio-frequency power amplifiers. The course is worth 6 engineering design points.\n",
   "department_numbers": [
     "6"
@@ -39,7 +38,6 @@
     "content": "70d9cc56-b8f4-ac2e-6c02-abf910f70e23",
     "website": "6-334-power-electronics-spring-2007"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

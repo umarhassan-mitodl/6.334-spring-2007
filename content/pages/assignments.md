@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides eleven homework assignments that refer to reading
   assignments and select problems from the course textbook.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

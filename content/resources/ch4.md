@@ -5,8 +5,6 @@ description: Lecture notes on phase-controlled rectifiers, thyristor devices, an
 file: /courses/6-334-power-electronics-spring-2007/b723de93cdebf0553e39becf39e16f08_ch4.pdf
 file_size: 201802
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

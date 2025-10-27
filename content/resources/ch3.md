@@ -5,8 +5,6 @@ description: Lecture notes on power factor, total harmonic distortion, passive p
 file: /courses/6-334-power-electronics-spring-2007/7f8d6364d64a634bcdd8001871d28952_ch3.pdf
 file_size: 144696
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

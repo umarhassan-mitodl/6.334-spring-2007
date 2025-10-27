@@ -5,8 +5,6 @@ description: Problem set on tapped-inductor boost converters, magnetic circuit m
 file: /courses/6-334-power-electronics-spring-2007/f31475f6ae8ee81b5ef917489eb3d54d_hw4.pdf
 file_size: 585835
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

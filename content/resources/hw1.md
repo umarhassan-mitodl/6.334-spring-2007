@@ -5,8 +5,6 @@ description: Problem set on power factor, load regulation curves, and time-domai
 file: /courses/6-334-power-electronics-spring-2007/1e76bff7dce88ec4d7dbbbdd145e80e4_hw1.pdf
 file_size: 66255
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

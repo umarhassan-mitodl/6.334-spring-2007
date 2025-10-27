@@ -5,8 +5,6 @@ description: Problem set on boost converters, power flow, and factors that influ
 file: /courses/6-334-power-electronics-spring-2007/b991c8c571478d70dafef869a1cfba3b_hw2.pdf
 file_size: 52833
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

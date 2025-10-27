@@ -5,8 +5,6 @@ description: Handwritten lecture notes on modeling and control, direct circuit a
 file: /courses/6-334-power-electronics-spring-2007/e9d7d5e6a5edace8230f01b0b6c20f8f_ch8.pdf
 file_size: 1949233
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

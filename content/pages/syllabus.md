@@ -3,8 +3,6 @@ content_type: page
 description: The syllabus section provides the course description and information
   on course meeting times, prerequisites, homework, quizzes, grading, the required
   text, additional references, and the class field trip.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -113,4 +111,4 @@ Rashid, Muhammad H. _SPICE for Power Electronics and Electric Power_. 2nd ed. Bo
 Field Trip
 ----------
 
-As part of the class, we will arrange a field trip to the power electronics design and manufacturing facility of [Synqor](http://www.synqor.com/) in Boxborough, MA. Synqor is a technology leader in DC/DC converters for telecommunications applications.
+As part of the class, we will arrange a field trip to the power electronics design and manufacturing facility of {{% resource_link "4cdfab2b-0bdd-43f7-ac62-6c724d749778" "Synqor" %}} in Boxborough, MA. Synqor is a technology leader in DC/DC converters for telecommunications applications.

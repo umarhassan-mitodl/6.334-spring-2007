@@ -4,8 +4,6 @@ description: Lecture notes on rectifiers, load regulation, and analysis methods.
 file: /courses/6-334-power-electronics-spring-2007/0628c2bcc2c6922aa21b9f5145708dd9_chp2.pdf
 file_size: 128407
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Problem set on an isolated SEPIC converter, an 50 W off-line conver
 file: /courses/6-334-power-electronics-spring-2007/e284d4516feed7a0d623d1a0f634ae51_hw5.pdf
 file_size: 130496
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
